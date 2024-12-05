@@ -23,7 +23,7 @@ Here are a few projects I'm working on or plan to build:
 ## Let's Connect! 🌐
 Feel free to reach out if you'd like to collaborate, share insights, or just chat about data analytics:  
 - 💼 [www.linkedin.com/in/svitlanakovalivska))  
-- 📫 Email: your.email@example.com (Replace with your email)
+- 📫 Email: kovalivska@gmail.com
 
 ---
 
