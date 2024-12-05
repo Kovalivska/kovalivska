@@ -16,9 +16,9 @@ I'm a **Data Analyst** currently enrolled at **Masterschool**, honing my skills 
 
 ## Projects 🚀
 Here are a few projects I'm working on or plan to build:
-1. **Data Cleaning in SQL**: A step-by-step case study of cleaning messy data sets.  
-2. **Python for Data Visualization**: Creating insightful visualizations with libraries like Matplotlib and Seaborn.  
-3. **Interactive Dashboards with Tableau**: Building dashboards to track and analyze real-world data.
+1. **Data Cleaning in SQL**: A step-by-step case study of cleaning messy data sets.  My first project is Unicorn.
+2. **Python for Data Visualization**: Creating insightful visualizations with libraries like Matplotlib and Seaborn. My first project is Metrocar. 
+3. **Interactive Dashboards with Tableau**: Building dashboards to track and analyze real-world data. https://public.tableau.com/app/profile/svitlanakovalivska/vizzes 
 
 ## Let's Connect! 🌐
 Feel free to reach out if you'd like to collaborate, share insights, or just chat about data analytics:  
