@@ -2,7 +2,7 @@
 
 ## About Me
 
-## 🔗 [View Interactive Portfolio - Version 5](https://kovalivska.github.io/my-kpis_and_projects/My_KPIs_and_СV5.html)
+## 🔗 [View Interactive Portfolio](https://kovalivska.github.io/my-kpis_and_projects/My_KPIs_and_СV5.html)
 
 [![Portfolio Overview](https://github.com/user-attachments/assets/cd63481f-f560-436b-b527-fbb3291693d6)](https://kovalivska.github.io/my-kpis_and_projects/My_KPIs_and_СV5.html)
 
