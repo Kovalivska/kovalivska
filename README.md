@@ -2,6 +2,10 @@
 
 ## About Me
 
+## 🔗 [View Interactive Portfolio - Version 5](https://kovalivska.github.io/my-kpis_and_projects/My_KPIs_and_СV5.html)
+
+[![Portfolio Overview](https://github.com/user-attachments/assets/cd63481f-f560-436b-b527-fbb3291693d6)](https://kovalivska.github.io/my-kpis_and_projects/My_KPIs_and_СV5.html)
+
 I'm a **Data Scientist** with a unique combination of ML/AI engineering expertise and 15+ years of experience in data-driven policy analysis and sustainability projects. I recently completed an intensive **15-month Data Science program at Masterschool** and gained hands-on experience through internships at **Data Coffee GmbH** and **Webeet**.
 
 ### 🎓 Background
